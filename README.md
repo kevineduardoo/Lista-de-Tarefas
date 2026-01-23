@@ -1,16 +1,56 @@
-# React + Vite
+📝 Todo List em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de Lista de Tarefas (Todo List) desenvolvido com React, com o objetivo de praticar conceitos fundamentais do front-end moderno, como componentes, estados, props e manipulação de listas.
 
-Currently, two official plugins are available:
+🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Adicionar novas tarefas
 
-## React Compiler
+🔍 Pesquisar tarefas pelo nome
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📂 Filtrar tarefas por status:
 
-## Expanding the ESLint configuration
+Todas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Completas
+
+Incompletas
+
+🔤 Ordenar tarefas em ordem alfabética (Asc / Desc)
+
+✅ Marcar tarefas como completas
+
+❌ Remover tarefas
+
+🎨 Interface estilizada com CSS
+
+🛠️ Tecnologias Utilizadas
+
+React
+
+JavaScript (ES6+)
+
+HTML5
+
+CSS3
+
+Vite
+📚 Conceitos Praticados
+
+Componentização no React
+
+Hook useState
+
+Passagem de props
+
+Renderização condicional
+
+Manipulação de arrays (map, filter, sort)
+
+Organização de projeto
+
+Estilização com CSS
+
+🎯 Objetivo
+
+Projeto criado com foco em aprendizado e prática de React, ideal para quem está iniciando no desenvolvimento front-end.
